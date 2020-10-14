@@ -31,5 +31,6 @@ const Header = styled.div`
 
 const Content = styled.div`
   display: flex;
+  flex-direction: column;
   flex: 1;
 `;
